@@ -6,6 +6,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
