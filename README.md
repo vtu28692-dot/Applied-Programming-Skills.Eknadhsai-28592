@@ -12,6 +12,7 @@
 | [0704-binary-search](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0977-squares-of-a-sorted-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0496-next-greater-element-i](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0496-next-greater-element-i](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0901-online-stock-span) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
