@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0219-contains-duplicate-ii) |
@@ -34,6 +35,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
@@ -51,6 +53,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0219-contains-duplicate-ii) |
@@ -60,6 +63,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
