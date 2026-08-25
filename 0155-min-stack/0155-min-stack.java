@@ -1,23 +1,26 @@
-import java.util.*;
+import java.util.ArrayDeque;
+import java.util.Deque;
 
 class MinStack {
-    Stack<Integer> stack;
-    Stack<Integer> minStack;
+    private Deque<Integer> stack;
+    private Deque<Integer> minStack;
 
     public MinStack() {
-        stack = new Stack<>();
-        minStack = new Stack<>();
+        stack = new ArrayDeque<>();
+        minStack = new ArrayDeque<>();
     }
 
     public void push(int val) {
         stack.push(val);
-
+        // Push to minStack if empty or value is <= current minimum
         if (minStack.isEmpty() || val <= minStack.peek()) {
             minStack.push(val);
         }
     }
 
     public void pop() {
+        // Use equals() for Integer object comparison if using objects, 
+        // but with primitive unwrapping via intValue() comparison is cleaner
         if (stack.peek().equals(minStack.peek())) {
             minStack.pop();
         }
