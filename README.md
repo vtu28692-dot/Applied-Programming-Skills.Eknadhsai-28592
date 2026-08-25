@@ -15,6 +15,7 @@
 | [0946-validate-stack-sequences](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1732-find-the-highest-altitude](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,4 +151,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0946-validate-stack-sequences) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
