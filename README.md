@@ -17,6 +17,7 @@
 | [0739-daily-temperatures](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0977-squares-of-a-sorted-array) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1732-find-the-highest-altitude](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
@@ -77,6 +78,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0387-first-unique-character-in-a-string) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Linked List
 |  |
 | ------- |
@@ -130,6 +133,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0347-top-k-frequent-elements) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Merge Sort
 |  |
 | ------- |
@@ -184,8 +188,13 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
