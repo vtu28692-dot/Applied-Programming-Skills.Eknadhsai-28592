@@ -76,6 +76,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0049-group-anagrams) |
+| [0257-binary-tree-paths](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0387-first-unique-character-in-a-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -230,6 +231,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -252,6 +254,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -264,6 +267,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -273,4 +277,5 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/vtu28692-dot/Applied-Programming-Skills.Eknadhsai-28592/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
